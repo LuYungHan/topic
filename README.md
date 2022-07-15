@@ -1,6 +1,6 @@
 # Published results of yoyo and hannah
 
-This is my topic at Taipei University of Technology
+This is my topic at National Taipei University of Technology
 
 ## Getting Started
 
