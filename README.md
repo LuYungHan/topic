@@ -21,3 +21,5 @@ This is my topic at National Taipei University of Technology
 * [腳2022-05-10 103600優化](0510data/腳2022-05-10%20103600優化.csv)
 * [腳2022-05-10 103800優化](0510data/腳2022-05-10%20103800優化.csv)
 * [腳2022-05-10 104000優化](0510data/腳2022-05-10%20104000優化.csv)
+
+![](https://github.com/ms314006/ms314006/blob/master/resource/introduction.gif?raw=true)
