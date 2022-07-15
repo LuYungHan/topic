@@ -1,13 +1,23 @@
-# Multimedia Application
+# Published results of yoyo and hannah
 
-This is my Multimedia_Application homework in NTUT
+This is my topic at Taipei University of Technology
 
 ## Getting Started
 
-### [Project1](project1)
+### [data0506](new_data)
 
-* [影像標記實作](project1/影像標記實作.pdf)
+* [手2022-05-06 113600-4](new_data/手2022-05-06 113600-4.csv)
+* [手2022-05-06 114900-4](new_data/手2022-05-06 114900-4.csv)
+* [手2022-05-06 115200-2](new_data/手2022-05-06 115200-2.csv)
+* [腳2022-05-06 120000-4](new_data/腳2022-05-06 120000-4.csv)
+* [腳2022-05-06 120300-3](new_data/腳2022-05-06 120300-3.csv)
+* [腳2022-05-06 120500-4](new_data/腳2022-05-06 120500-4.csv)
 
-### [Project2](project2)
+### [data0510](0510data)
 
-* [YOLOv4影像訓練實作](project2/YOLOv4影像訓練實作.pdf)
+* [手2022-05-10 103600優化](0510data/手2022-05-10 103600優化.csv)
+* [手2022-05-10 103800優化](0510data/手2022-05-10 103800優化.csv)
+* [手2022-05-10 104000優化](0510data/手2022-05-10 104000優化.csv)
+* [腳2022-05-10 103600優化](0510data/腳2022-05-10 103600優化.csv)
+* [腳2022-05-10 103800優化](0510data/腳2022-05-10 103800優化.csv)
+* [腳2022-05-10 104000優化](0510data/腳2022-05-10 104000優化.csv)
