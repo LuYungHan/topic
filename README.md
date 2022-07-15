@@ -1,6 +1,6 @@
-# <font color=#FF0000>Published results of yoyo and hannah</font>
+# Published results of yoyo and hannah
 
-#### This is my topic at National Taipei University of Technology
+#### This is my topic at National Taipei University of Technology 阿球圓滾滾
 ![Hey there, I'm yoyo this is 阿球圓滾滾](阿球圓滾滾.gif)
 
 ## Getting Started
