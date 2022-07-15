@@ -1,6 +1,6 @@
 # Published results of yoyo and hannah😋😋
 
-#### This is my topic at National Taipei University of Technology
+#### This is our topic at National Taipei University of Technology
 
 ## Getting Started
 ![Hey there, I'm yoyo this is 阿球圓滾滾](阿球圓滾滾.gif)
