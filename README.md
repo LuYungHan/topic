@@ -12,6 +12,7 @@ This is my topic at Taipei University of Technology
 * [腳2022-05-06 120000-4](new_data/腳2022-05-06 120000-4.csv)
 * [腳2022-05-06 120300-3](new_data/腳2022-05-06 120300-3.csv)
 * [腳2022-05-06 120500-4](new_data/腳2022-05-06 120500-4.csv)
+* [影像標記實作](project1/影像標記實作.pdf)
 
 ### [data0510](0510data)
 
