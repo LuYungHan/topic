@@ -1,6 +1,7 @@
 # Published results of yoyo and hannah
 
 This is my topic at National Taipei University of Technology
+![Hey there, I'm yoyo this is 阿球圓滾滾](阿球圓滾滾.gif)
 
 ## Getting Started
 
@@ -21,5 +22,3 @@ This is my topic at National Taipei University of Technology
 * [腳2022-05-10 103600優化](0510data/腳2022-05-10%20103600優化.csv)
 * [腳2022-05-10 103800優化](0510data/腳2022-05-10%20103800優化.csv)
 * [腳2022-05-10 104000優化](0510data/腳2022-05-10%20104000優化.csv)
-
-![Hey there, I'm yoyo this is 阿球圓滾滾](阿球圓滾滾.gif)
